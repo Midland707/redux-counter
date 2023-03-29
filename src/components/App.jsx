@@ -1,0 +1,5 @@
+import { Task } from 'components/Task/Task';
+
+export const App = () => {
+  return <Task />;
+};
