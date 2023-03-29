@@ -1,8 +1,8 @@
 {
-  "name": "goit-react-task",
+  "name": "redux-counter",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://midland707.github.io/goit-react-task/",
+  "homepage": "https://midland707.github.io/redux-counter/",
   "dependencies": {
     "@redux-devtools/extension": "^3.2.5",
     "@reduxjs/toolkit": "^1.9.3",
